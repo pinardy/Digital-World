@@ -3,7 +3,7 @@ import time
 import firebase
 
 url = "https://pinardy.firebaseio.com/" 
-token = "4vlssuGd2ljBfQSy07CKFIqhEIpd7LcFMunm6Jmj" 
+token = "" 
 firebase = firebase.FirebaseApplication(url, token) 
 
 sensor = 4
