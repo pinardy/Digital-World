@@ -8,8 +8,8 @@ from kivy.app import App
 from kivy.clock import Clock
 
 import firebase
-url = "https://elainejomane.firebaseio.com/" # URL to Firebase database
-token = "D68F25AuafW6vMWNHGx4iYTzL68rJw2AAiJ9QCOI" # unique token used for authentication
+url = "https://pinardy.firebaseio.com/" # URL to Firebase database
+token = "" # unique token used for authentication
 firebase = firebase.FirebaseApplication(url, token)
 
             
